@@ -57,28 +57,28 @@ const Footer = () => {
             <h3 className="text-2xl font-semibold mb-4">Follow Us</h3>
             <div className="flex space-x-6">
               <a
-                href="#"
+                href="www.facebook.com"
                 rel="noopener noreferrer"
                 className="text-gray-400 hover:text-blue-600"
               >
                 <FaFacebook size={24} />
               </a>
               <a
-                href="#"
+                href="www.twitter.com"
                 rel="noopener noreferrer"
                 className="text-gray-400 hover:text-blue-400"
               >
                 <FaTwitter size={24} />
               </a>
               <a
-                href="#"
+                href="www.instagram.com"
                 rel="noopener noreferrer"
                 className="text-gray-400 hover:text-pink-600"
               >
                 <FaInstagram size={24} />
               </a>
               <a
-                href="#"
+                href="www.linkedin.com"
                 rel="noopener noreferrer"
                 className="text-gray-400 hover:text-blue-700"
               >
